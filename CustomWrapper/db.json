@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "address": "123 Main St, Springfield, IL"
+    },
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "address": "456 Elm St, Springfield, IL"
+    },
+    {
+      "id": "3",
+      "name": "Bob Johnson",
+      "email": "bob.johnson@example.com",
+      "address": "789 Oak St, Springfield, IL"
+    },
+    {
+      "id": 100,
+      "name": "ankit",
+      "email": "ankit@gmail.com"
+    },
+    {
+      "id": 101,
+      "name": "ankit",
+      "email": "ankit@gmail.com"
+    }
+  ]
+}
